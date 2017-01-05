@@ -9,4 +9,4 @@ function repeatStringNumTimes(str, num) {
   }
 }
 
-rpt = repeatStringNumTimes("Meow", 3);
+repeatStringNumTimes("Meow", 3);

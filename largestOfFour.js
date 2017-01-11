@@ -1,7 +1,7 @@
 
 function largestOfFour(arr) {
   // You can do this!
-
+  console.log(arr);
 
 
   return arr;
